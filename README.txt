@@ -1,4 +1,4 @@
-Editeur d'image réalisé par Quentin Guardia (quentin.guardia@protonmail.com)
+Editeur d'image réalisé par QG (quentin.guardia@protonmail.com)
 
 Compiler:
 	make
